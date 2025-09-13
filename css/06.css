@@ -1,0 +1,19 @@
+@media (min-width: 550px) {
+  /* Teléfonos grandes (horizontales) o tablets pequeñas */
+}
+
+@media (min-width: 768px) {
+  /* Tablets (modo vertical) */
+}
+
+@media (min-width: 1024px) {
+  /* Laptops, pantallas de escritorio pequeñas y tablets (modo horizontal) */
+}
+
+@media (min-width: 1200px) {
+  /* Pantallas de escritorio medianas */
+}
+
+@media (min-width: 1600px) {
+  /* Pantallas de escritorio grandes (como 4K o monitores ultra anchos) */
+}
